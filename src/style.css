@@ -4,8 +4,8 @@
   font-weight: 400;
 
   color-scheme: light;
-  color: chocolate;
-  background-color: #242424;
+  color: black;
+  background-color: #ffffff;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -16,20 +16,20 @@
 
 a {
   font-weight: 500;
-  color: chocolate;
+  color: rgb(0, 0, 0);
   text-decoration: inherit;
 }
 a:hover {
-  color: chocolate;
+  color: rgb(0, 0, 0);
 }
 
 a {
   font-weight: 500;
-  color: chocolate;
+  color: rgb(0, 0, 0);
   text-decoration: inherit;
 }
 a:hover {
-  color: chocolate;
+  color: rgb(0, 0, 0);
 }
 
 body {
@@ -52,7 +52,7 @@ button {
   font-size: small;
   font-weight: 500;
   font-family: inherit;
-  background-color: chocolate;
+  background-color: rgb(190, 190, 190);
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -87,12 +87,12 @@ li{
 }
 
 .input{
-  background-color: chocolate;
+  background-color: rgb(192, 192, 192);
   color: black;
 }
 
 .container{
-  border: 1px solid chocolate;
+  border: 1px solid #ffffff;
   border-radius: 25px;
 }
 
