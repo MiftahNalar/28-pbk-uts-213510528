@@ -1,0 +1,101 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light;
+  color: chocolate;
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  font-weight: 500;
+  color: chocolate;
+  text-decoration: inherit;
+}
+a:hover {
+  color: chocolate;
+}
+
+a {
+  font-weight: 500;
+  color: chocolate;
+  text-decoration: inherit;
+}
+a:hover {
+  color: chocolate;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 300px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.5em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: small;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: chocolate;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #242424;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+.card {
+  padding: 2em;
+}
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.list{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+form button {
+margin-left: 15px;
+}
+li{
+  list-style-type: none;
+}
+
+.input{
+  background-color: chocolate;
+  color: black;
+}
+
+.container{
+  border: 1px solid chocolate;
+  border-radius: 25px;
+}
+
+.konten{
+  padding: 30px;
+}
