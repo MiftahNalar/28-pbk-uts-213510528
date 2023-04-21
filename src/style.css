@@ -16,7 +16,7 @@
 
 a {
   font-weight: 500;
-  color: #242424;
+  color: chocolate;
   text-decoration: inherit;
 }
 a:hover {
@@ -29,7 +29,7 @@ a {
   text-decoration: inherit;
 }
 a:hover {
-  color: rgb(0, 0, 0);
+  color: chocolate;
 }
 
 body {
