@@ -4,7 +4,7 @@
   font-weight: 400;
 
   color-scheme: light;
-  color:  rgb(190, 190, 190);
+  color:  chocolate;
   background-color: #242424;
 
   font-synthesis: none;
@@ -52,7 +52,7 @@ button {
   font-size: small;
   font-weight: 500;
   font-family: inherit;
-  background-color: rgb(190, 190, 190);
+  background-color: chocolate;
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -92,7 +92,7 @@ li{
 }
 
 .container{
-  border: 1px solid #ffffff;
+  border: 1px solid chocolate;
   border-radius: 25px;
 }
 
